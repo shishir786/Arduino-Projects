@@ -71,7 +71,7 @@ Each project folder contains a circuit diagram for setting up the components. Th
 - Demonstrates communication between two Arduino boards via SPI. 📡  
 - One board acts as a master, and the other as a slave. 🎮  
 
----
+
 
 ## 🧑‍🔬 How to Use
 
