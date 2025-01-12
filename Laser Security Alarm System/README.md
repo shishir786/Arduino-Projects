@@ -34,6 +34,9 @@ The **Laser Security Alarm System** is an Arduino-based project designed to enha
 
 The circuit diagram shows the connections between the laser module, photoresistor, buzzer, and the Arduino. Connect the components as follows:
 
+![Laser_Security_Alarm_System_Using_Arduin_page8_image](https://github.com/user-attachments/assets/b4a9ccc6-25e9-4b62-a577-24dd5effedfe)
+
+
 1. **Laser Diode Module (KY-008)**:
    - VCC → 5V
    - GND → GND
